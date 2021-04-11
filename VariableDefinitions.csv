@@ -1,0 +1,21 @@
+Column,Definition
+ID,Unique person identification number
+gender,gender
+age,Individual age
+race,Individual race
+dwelling,The dwelling/house the person occupies
+dwelling_type,"Is the dwelling formal or informal(Yes-formal, No-Informal)"
+province_code,Province code
+metro_code,Metro code
+psu,Primary sampling unit of the survey
+nationality,Individual Nationality
+RTH,Individual Relationship to the head of the household
+marital_st,Marital status
+Lang_inside,The main language the person speaks in the house
+Lang_outside,The main language that is spoken outside the house.
+Education,Education attainment
+lw_work,salary/wages/any payment for work done in the last week
+lw_business,Run/do any kind of a business in the last week
+help_on_household,Help on household/ business without any pay in the last week
+nature_of_work,"The nature of work(permanent, contract, fixed, etc)"
+Target,Crime happenning in the last 5 years to individual
